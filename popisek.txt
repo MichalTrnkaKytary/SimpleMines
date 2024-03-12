@@ -1,2 +1,3 @@
 Pridan horni radek
-Opraven text
+vlozeno doprostred
+Opraven TEXT
